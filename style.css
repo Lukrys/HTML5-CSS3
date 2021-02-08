@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(70,70,70);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo{
+    float: right;
+}
+
+#corpo{
+    background-color: rgb(255,255,255);
+}
+
+#title{
+    color: darkred;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+.subtitle{
+    color: blue;
+}
+
+.post_title{
+    color: black;
+    font-size: 14pt;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px
+}
+
+.post{
+    padding: 10px;
+    border: solid rgb(0,0,0);
+    margin-bottom: 15px;
+}
+
+.post_content{
+    margin: 0px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.post_image{
+    margin-bottom: 15px;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list a{
+    text-decoration: none;
+}
